@@ -3,3 +3,4 @@ data/*
 *.pkl
 data/processed/*
 data/raw/*
+/metrics.json
