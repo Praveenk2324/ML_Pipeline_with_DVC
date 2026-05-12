@@ -1,3 +1,5 @@
 *:Zone.Identifier
 data/*
 *.pkl
+data/processed/*
+data/raw/*
